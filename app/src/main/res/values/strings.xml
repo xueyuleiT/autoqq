@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">autoqq</string>
+    <string name="accessibility_description">启动自动点击服务</string>
+</resources>
